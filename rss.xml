@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Game Knightz]]></title>
         <description><![CDATA[Game Knightz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gameknightz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:22:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 17:38:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gameknightz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dice!]]></title>
+            <description><![CDATA[<article><h1>Dice!</h1><p>Another test post!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d45ec655857e771acd3abe2712814e596edf390.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gameknightz/dice/index.html</link>
+            <guid isPermaLink="false">19d318d8-b4b6-427d-b1d5-8daf708bd606</guid>
+            <pubDate>Mon, 21 Dec 2015 17:38:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is a test post]]></title>
-            <description><![CDATA[<article><h1>This is a test post</h1><p>This is a test post.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfd50516-632a-4fe4-a380-46d05ce06871.png"></article>]]></description>
-            <link>undefinedthis-is-a-test-post/index.html</link>
+            <description><![CDATA[<article><h1>This is a test post</h1><p>This is a test post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80fb57c6a7c5820e6504725a8bbede8c4c1ec552.png"></article>]]></description>
+            <link>https://thegrid.ai/gameknightz/this-is-a-test-post/index.html</link>
             <guid isPermaLink="false">019ad36b-b871-45fd-86f3-9987b2396822</guid>
             <pubDate>Mon, 21 Dec 2015 17:22:12 GMT</pubDate>
         </item>
