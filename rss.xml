@@ -4,8 +4,15 @@
         <description><![CDATA[Game Knightz]]></description>
         <link>https://thegrid.ai/gameknightz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 17:38:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gameknightz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gallery test]]></title>
+            <description><![CDATA[<article><h1>Gallery test</h1><p>a small sample of pictures</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d54cb8684baaddf79a8b6a488ead12ceeaccb5e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gameknightz/gallery-test/index.html</link>
+            <guid isPermaLink="false">5fbf3197-ee10-4e3c-a360-048abcdce4c7</guid>
+            <pubDate>Mon, 21 Dec 2015 17:38:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dice!]]></title>
             <description><![CDATA[<article><h1>Dice!</h1><p>Another test post!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d45ec655857e771acd3abe2712814e596edf390.jpg"></article>]]></description>
