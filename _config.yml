@@ -1,7 +1,7 @@
 name: GameKnightz
 favicon: null
-layout_spectrum: 0.18655683775432408
-typography_spectrum: 0.10038204654119909
+layout_spectrum: 0.29831
+typography_spectrum: 0.19287
 title: Game Knightz
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.15531941666267812
-  lightness: 0.17599018523469567
+    - '#251a15'
+    - '#dca30c'
+    - '#6a5746'
+    - '#af7164'
+    - '#f9ede3'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.7188014884013683
-  rhythmicContrast: 0.6042863372713327
+  rhythmicContrast: 0.75
 purpose: []
