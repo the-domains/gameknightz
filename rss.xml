@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Game Knightz]]></title>
+        <description><![CDATA[Game Knightz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 17:22:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a test post]]></title>
+            <description><![CDATA[<article><h1>This is a test post</h1><p>This is a test post.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfd50516-632a-4fe4-a380-46d05ce06871.png"></article>]]></description>
+            <link>undefinedthis-is-a-test-post/index.html</link>
+            <guid isPermaLink="false">019ad36b-b871-45fd-86f3-9987b2396822</guid>
+            <pubDate>Mon, 21 Dec 2015 17:22:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
