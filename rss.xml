@@ -4,18 +4,18 @@
         <description><![CDATA[Game Knightz]]></description>
         <link>https://thegrid.ai/gameknightz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 17:47:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gameknightz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gallery 2]]></title>
-            <description><![CDATA[<article><h1>Gallery 2</h1><p>Intense fun!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed338c76ce059c493b8c9b0f9d16dd261608125b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Gallery 2</h1><p>Intense fun!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a71d684b34e3701aeb8981f9312e73b9bfc17315.jpg"></article>]]></description>
             <link>https://thegrid.ai/gameknightz/gallery-2/index.html</link>
             <guid isPermaLink="false">67f25123-ea42-4914-8f96-8d9171f83a6a</guid>
             <pubDate>Mon, 21 Dec 2015 17:38:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gallery test]]></title>
-            <description><![CDATA[<article><h1>Gallery test</h1><p>a small sample of pictures</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d54cb8684baaddf79a8b6a488ead12ceeaccb5e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Gallery test</h1><p>a small sample of pictures</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9138fe79cdd906783d9cdd7a715214219b107d6e.jpg"></article>]]></description>
             <link>https://thegrid.ai/gameknightz/gallery-test/index.html</link>
             <guid isPermaLink="false">5fbf3197-ee10-4e3c-a360-048abcdce4c7</guid>
             <pubDate>Mon, 21 Dec 2015 17:38:38 GMT</pubDate>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/gameknightz/dice/index.html</link>
             <guid isPermaLink="false">19d318d8-b4b6-427d-b1d5-8daf708bd606</guid>
             <pubDate>Mon, 21 Dec 2015 17:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is a test post]]></title>
-            <description><![CDATA[<article><h1>This is a test post</h1><p>This is a test post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80fb57c6a7c5820e6504725a8bbede8c4c1ec552.png"></article>]]></description>
-            <link>https://thegrid.ai/gameknightz/this-is-a-test-post/index.html</link>
-            <guid isPermaLink="false">019ad36b-b871-45fd-86f3-9987b2396822</guid>
-            <pubDate>Mon, 21 Dec 2015 17:22:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
